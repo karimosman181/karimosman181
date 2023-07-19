@@ -1,4 +1,4 @@
-**# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 ![Banner Image](https://portfolio-wheat-one-42.vercel.app/github-header-image.png)
 
