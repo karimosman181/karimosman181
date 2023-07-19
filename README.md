@@ -19,8 +19,8 @@ I believe in continuous learning, and these are some of the technologies I'm cur
 
 Here are some of the projects I've worked on:
 
-1. [My Porfolio website ]([link_to_project_1](https://portfolio-wheat-one-42.vercel.app/)) - A personal portfolio website built with Next.js and Tailwind CSS with a modern and sleek design, with a focus on showcasing my skills, and projects.
-   ![y Porfolio website Image]([link_to_image_or_demo](https://portfolio-wheat-one-42.vercel.app/portfolio.png))
+1. [My Porfolio website ](https://portfolio-wheat-one-42.vercel.app/) - A personal portfolio website built with Next.js and Tailwind CSS with a modern and sleek design, with a focus on showcasing my skills, and projects.
+   ![y Porfolio website Image](https://portfolio-wheat-one-42.vercel.app/portfolio.png)
 
 ## 🚀 My Contributions
 
