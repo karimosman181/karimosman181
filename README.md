@@ -2,7 +2,7 @@
 
 **# Welcome to My GitHub Profile!
 
-![Banner Image]([link_to_your_banner_image](https://portfolio-wheat-one-42.vercel.app/github-header-image.png))
+![Banner Image](https://portfolio-wheat-one-42.vercel.app/github-header-image.png)
 
 ## About Me
 
