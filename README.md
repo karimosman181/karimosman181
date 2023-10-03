@@ -11,6 +11,7 @@ Hello there! 👋 I'm Karim Osman, a passionate developer and technology enthusi
 I believe in continuous learning, and these are some of the technologies I'm currently exploring:
 
 - Golang
+- GDScript (Godot)
 
 
 ## 🔭 My Projects
