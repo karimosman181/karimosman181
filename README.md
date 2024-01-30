@@ -42,7 +42,7 @@ I'm always open to interesting discussions and collaboration opportunities. You 
 
 I'm looking forward to connecting with fellow developers and like-minded individuals. Feel free to drop me a message or connect with me on social media!
 
-
+## GitHub Stats 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=karimosman181&show_icons=true&theme=dark"
