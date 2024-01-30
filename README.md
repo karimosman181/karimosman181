@@ -42,6 +42,18 @@ I'm always open to interesting discussions and collaboration opportunities. You 
 
 I'm looking forward to connecting with fellow developers and like-minded individuals. Feel free to drop me a message or connect with me on social media!
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kareemosman181&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kareemosman181&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <!-- ## 🙏 Acknowledgements
 
 I'm grateful for the support and inspiration I've received from the developer community. Special thanks to [mention anyone you'd like to acknowledge].
